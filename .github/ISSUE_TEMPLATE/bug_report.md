@@ -16,6 +16,8 @@ High - stop player progress, incorrect result
 medium - looks bad but still works
 low - almost unnoticeable
 
+**Frequency**
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
